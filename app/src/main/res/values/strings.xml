@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">MsgShareApp</string>
+    <string name="btn_show_toast">Show Message</string>
+    <string name="usrEnterMsg">Enter Your Message !</string>
+    <string name="btn_send_data">Send Data To Next Activity</string>
+    <string name="btn_share_data">Share to other Apps</string>
+    <string name="recycler_view_demo">Show My Hobbies</string>
+    <string name="btn_was_clicked">"Button was clicked !"</string>
+
 </resources>
