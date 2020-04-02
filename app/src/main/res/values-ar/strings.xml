@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <string name="app_name">تطبيق مشاركة الرسائل</string>
+    <string name="btn_send_data">إرسال البيانات إلى النشاط التالي</string>
+
+    <string name="btn_show_toast">اظهر الرسالة</string>
+    <string name="usrEnterMsg">أدخل رسالتك !</string>
+    <string name="btn_share_data">مشاركة مع تطبيقات أخرى</string>
+    <string name="recycler_view_demo">إظهار هواياتي</string>
+    <string name="btn_was_clicked">"تم النقر على الزر !"</string>
+
+</resources>
